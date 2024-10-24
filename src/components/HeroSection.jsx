@@ -4,7 +4,7 @@ import { FaYoutube } from "react-icons/fa6";
 
 function HeroSection() {
     return (
-        <div className='flex flex-wrap justify-center'>
+        <div className='flex flex-wrap justify-center m-3'>
             <div className='bg-yellow-300 border border-black rounded-3xl lg:w-2/3'>
                 <div className="flex flex-wrap py-10 w-full">
 

@@ -2,7 +2,9 @@ import HeroSection from "./components/HeroSection"
 
 function App() {
   return (
-    <div className="m-10">
+    <div className="">
+      <HeroSection />
+      <HeroSection />
       <HeroSection />
     </div>
   )
